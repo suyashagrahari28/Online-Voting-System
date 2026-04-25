@@ -48,6 +48,7 @@ node server.js
 http://localhost:3000
 
 ## 📸 Screenshots
+<img width="562" height="571" alt="image" src="https://github.com/user-attachments/assets/a1e9911a-4277-4ef2-9160-d528e7fae59c" />
 
 
 ## 🔮 Future Improvements
